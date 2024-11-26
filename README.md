@@ -146,3 +146,13 @@ O **Menó Estoque** é um sistema de gerenciamento de estoque na nuvem, projetad
 O **Menó Estoque** é uma solução eficiente e escalável para o controle de estoque. Ele oferece recursos modernos e acessibilidade na nuvem, sendo ideal para empresas que desejam organização, praticidade e agilidade.
 
 ---
+## ** Acesse **
+https://omeno.com.br/log.html
+
+## ** Painel de supervisor** 
+- usuario: admin
+- senha: 1234
+  
+## ** Painel de operador** 
+- usuario: teste
+- senha: 1234
